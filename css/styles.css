@@ -283,7 +283,6 @@ img {
 
 .team-item-title {
   text-align: center;
-
   margin-bottom: 8px;
 }
 
@@ -307,7 +306,7 @@ img {
 }
 
 .team-social-link {
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   width: 40px;
   height: 40px;
   border-radius: 50%;
