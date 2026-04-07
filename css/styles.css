@@ -237,7 +237,7 @@ img {
 }
 
 .features-item-title {
-  padding-bottom: 8px;
+  padding: 8px 0;
 }
 
 .features-item-wrapper {
